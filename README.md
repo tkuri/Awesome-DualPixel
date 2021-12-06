@@ -23,6 +23,7 @@
 |2021|CVPRW|[ATTSF Attention! Stay Focus!](https://arxiv.org/abs/2104.07925)|Deblur|[Code](https://github.com/tuvovan/ATTSF)|
 |2021|ICCV|[Defocus Map Estimation and Deblurring From a Single Dual-Pixel Image](https://openaccess.thecvf.com/content/ICCV2021/html/Xin_Defocus_Map_Estimation_and_Deblurring_From_a_Single_Dual-Pixel_Image_ICCV_2021_paper.html)|Deblur /  Defocus Map||
 |2021|ICCV|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://openaccess.thecvf.com/content/ICCV2021/html/Abuolaim_Learning_To_Reduce_Defocus_Blur_by_Realistically_Modeling_Dual-Pixel_Data_ICCV_2021_paper.html)|Deblur|[Code & Dataset](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)|
+|2021|Arxiv|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / relighting||
 
 ## Dataset
 |Year|Pub|Paper|Detail|
