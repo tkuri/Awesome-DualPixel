@@ -12,7 +12,7 @@
 ## Dual Pixel
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
-|2018|SIGGRAPH|[Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)|Depth / Segmenation||
+|2018|SIGGRAPH|[Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)|Depth / Segmenation / Synthetic DoF||
 |2019|CVPR|[Reflection Removal Using a Dual-Pixel Sensor](https://abhijithpunnappurath.github.io/dprr.html)|Reflection Removal|[Code](https://github.com/abhijithpunnappurath/dprr)|
 |2019|ICCV|[Learning Single Camera Depth Estimation using Dual-Pixels](https://arxiv.org/abs/1904.05822)|Depth|[Code & Dataset](https://github.com/google-research/google-research/tree/master/dual_pixels)|
 |2020|ICCP|[Modeling Defocus-Disparity in Dual-Pixel Sensors](https://abhijithpunnappurath.github.io/ICCP2020.pdf)|Depth|[Code & Dataset](https://abhijithpunnappurath.github.io/ICCP2020.pdf)|
