@@ -30,6 +30,6 @@
 |:---:|:---:|:---:|:---:|
 |2019|ICCV|[Learning Single Camera Depth Estimation using Dual-Pixels](https://github.com/google-research/google-research/tree/master/dual_pixels)|Train:2506, Test:684, Res:1512x2016(DP), 16bit png, DP Raw / Depth|
 |2020|ICCP|[Modeling Defocus-Disparity in Dual-Pixel Sensors](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)|Num:100, Res:5180x2940, RGB 8bit jpg / 16bit tif Depth, DP LR / Depth|
-|2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|Num:500, Res:6720x4480, 16bit|
+|2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|Num:500, Res:1680x1120, 16bit|
 |2021|CVPR|[Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)|DP Simulator from [NYUD Dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)|
 |2021|ICCV|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)|DP Simulator form [SYNTHIA-SF dataset](https://synthia-dataset.net/downloads/)|
