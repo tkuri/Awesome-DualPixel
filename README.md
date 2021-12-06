@@ -23,13 +23,13 @@
 |2021|CVPRW|[ATTSF Attention! Stay Focus!](https://arxiv.org/abs/2104.07925)|Deblur|[Code](https://github.com/tuvovan/ATTSF)|
 |2021|ICCV|[Defocus Map Estimation and Deblurring From a Single Dual-Pixel Image](https://openaccess.thecvf.com/content/ICCV2021/html/Xin_Defocus_Map_Estimation_and_Deblurring_From_a_Single_Dual-Pixel_Image_ICCV_2021_paper.html)|Deblur /  Defocus Map||
 |2021|ICCV|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://openaccess.thecvf.com/content/ICCV2021/html/Abuolaim_Learning_To_Reduce_Defocus_Blur_by_Realistically_Modeling_Dual-Pixel_Data_ICCV_2021_paper.html)|Deblur|[Code & Dataset](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)|
-|2021|Arxiv|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / relighting||
+|2021|Arxiv|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / Relighting||
 
 ## Dataset
 |Year|Pub|Paper|Detail|
 |:---:|:---:|:---:|:---:|
-|2019|ICCV|[Learning Single Camera Depth Estimation using Dual-Pixels](https://github.com/google-research/google-research/tree/master/dual_pixels)|Train:2506, Test:684, Res:1512x2016, 16bit png|
-|2020|ICCP|[Modeling Defocus-Disparity in Dual-Pixel Sensors](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)||
-|2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)||
+|2019|ICCV|[Learning Single Camera Depth Estimation using Dual-Pixels](https://github.com/google-research/google-research/tree/master/dual_pixels)|Train:2506, Test:684, Res:1512x2016(DP), 16bit png, DP Raw / Depth|
+|2020|ICCP|[Modeling Defocus-Disparity in Dual-Pixel Sensors](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)|Num:100, Res:5180x2940, RGB 8bit jpg / 16bit tif Depth, DP LR / Depth|
+|2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|Num:500, Res:6720x4480, 16bit|
 |2021|CVPR|[Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)||
 |2021|ICCV|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)||
