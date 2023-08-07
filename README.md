@@ -23,8 +23,15 @@
 |2021|CVPRW|[ATTSF Attention! Stay Focus!](https://arxiv.org/abs/2104.07925)|Deblur|[Code](https://github.com/tuvovan/ATTSF)|
 |2021|ICCV|[Defocus Map Estimation and Deblurring From a Single Dual-Pixel Image](https://openaccess.thecvf.com/content/ICCV2021/html/Xin_Defocus_Map_Estimation_and_Deblurring_From_a_Single_Dual-Pixel_Image_ICCV_2021_paper.html)|Deblur /  Defocus Map||
 |2021|ICCV|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://openaccess.thecvf.com/content/ICCV2021/html/Abuolaim_Learning_To_Reduce_Defocus_Blur_by_Realistically_Modeling_Dual-Pixel_Data_ICCV_2021_paper.html)|Deblur|[Code & Dataset](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)|
+|2021|IEEE|[World Largest Mobile Image Sensor with All Directional Phase Detection Auto Focus Function](https://ieeexplore.ieee.org/document/9567122)|Depth||
+|2021|ICTC|[Disparity probability volume guided defocus deblurring using dual pixel data](https://ieeexplore.ieee.org/document/9621024)|Deblur||
+|2021|Journal of Electronic Imaging|[Defocus deblurring: a designed deep model based on CNN](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-30/issue-6/063013/Defocus-deblurring-a-designed-deep-model-based-on-CNN/10.1117/1.JEI.30.6.063013.short?SSO=1)|Deblur||
+|2021|IEEE|[All-Directional Dual Pixel Auto Focus Technology in CMOS Image Sensors](https://ieeexplore.ieee.org/document/9492472)|Circuits||
+|2022|WACV|[Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://arxiv.org/abs/2108.05251)|Deblur|[Code & Dataset(coming soon)](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)|
+|2022|ISSCC|[A 1/1.57-inch 50Mpixel CMOS Image Sensor With 1.0μm All-Directional Dual Pixel by 0.5μm-Pitch Full-Depth Deep-Trench Isolation Technology](https://ieeexplore.ieee.org/document/9731567)|Circuits||
 |2022|ECCV|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / Relighting||
 
+## Dataset
 ## Dataset
 |Year|Pub|Paper|Detail|
 |:---:|:---:|:---:|:---:|
