@@ -44,4 +44,4 @@
 |2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|Num:500, Res:1680x1120, 16bit, Used for NTIRE 2021 Challenge (CVPRW)|
 |2021|CVPR|[Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)|DP Simulator from [NYUD Dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)|
 |2021|ICCV|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)|DP Simulator form [SYNTHIA-SF dataset](https://synthia-dataset.net/downloads/)|
-|2023|ICCP|[Learning to Synthesize Photorealistic Dual-pixel Images from RGBD frames](https://github.com/feiran-l/Neural-Dual-Pixel-Simulator)||
+|2023|ICCP|[Learning to Synthesize Photorealistic Dual-pixel Images from RGBD frames](https://github.com/feiran-l/Neural-Dual-Pixel-Simulator)|Num:5130, Res:1680x1120, RGB(DP LRC) 8bit png / Depth 16bit png|
