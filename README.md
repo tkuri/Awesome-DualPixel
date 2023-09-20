@@ -31,7 +31,7 @@
 |2022|ISSCC|[A 1/1.57-inch 50Mpixel CMOS Image Sensor With 1.0μm All-Directional Dual Pixel by 0.5μm-Pitch Full-Depth Deep-Trench Isolation Technology](https://ieeexplore.ieee.org/document/9731567)|Circuits||
 |2022|ECCV|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / Relighting||
 |2023|CVPR|[K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_K3DN_Disparity-Aware_Kernel_Estimation_for_Dual-Pixel_Defocus_Deblurring_CVPR_2023_paper.html)|Deblur||
-|2023|CVPR|[Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.html)|Depth / Disparity||
+|2023|CVPR|[Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.html)|Depth / Disparity|[Code](https://github.com/KAIST-VCLAB/dual-pixel-disparity)|
 |2023|ICCP|[Learning to Synthesize Photorealistic Dual-pixel Images from RGBD frames](https://ai.sony/publications/Learning-to-Synthesize-Photorealistic-Dual-pixel-Images-from-RGBD-frames/)|Depth / Disparity|[Code & Dataset](https://github.com/feiran-l/Neural-Dual-Pixel-Simulator)|
 
 
