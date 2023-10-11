@@ -17,7 +17,7 @@
 |2019|ICCV|[Learning Single Camera Depth Estimation using Dual-Pixels](https://arxiv.org/abs/1904.05822)|Depth|[Code & Dataset](https://github.com/google-research/google-research/tree/master/dual_pixels)|
 |2020|ICCP|[Modeling Defocus-Disparity in Dual-Pixel Sensors](https://abhijithpunnappurath.github.io/ICCP2020.pdf)|Depth|[Code & Dataset](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity)|
 |2020|CVPR|[Learning to Autofocus](https://learntoautofocus-google.github.io/)|Autofocus|[Dataset](https://learntoautofocus-google.github.io/)|
-|2020|ECCV|[Du2Net: Learning Depth Estimation from Dual-Cameras and Dual-Pixels](https://augmentedperception.github.io/du2net/)|Depth (w/Stereo)||
+|2020|ECCV|[Du2Net: Learning Depth Estimation from Dual-Cameras and Dual-Pixels](https://augmentedperception.github.io/du2net/)|Disparity (w/Stereo)||
 |2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://www.eecs.yorku.ca/~abuolaim/eccv_2020_dp_defocus_deblurring/)|Deblur|[Code & Dataset](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|
 |2021|CVPR|[Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration](https://openaccess.thecvf.com/content/CVPR2021/html/Pan_Dual_Pixel_Exploration_Simultaneous_Depth_Estimation_and_Image_Restoration_CVPR_2021_paper.html)|Depth / Deblur|[Code & Dataset](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)|
 |2021|CVPRW|[NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.html)|Deblur||
