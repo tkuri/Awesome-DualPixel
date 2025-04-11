@@ -37,6 +37,8 @@
 |2023|ICCV|[Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus](https://openaccess.thecvf.com/content/ICCV2023/html/Choi_Exploring_Positional_Characteristics_of_Dual-Pixel_Data_for_Camera_Autofocus_ICCV_2023_paper.html)|Autofocus||
 |2024|CVPR|[CADS: Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging](https://shadowfax11.github.io/cads/)|Depth / Deblur|[Code](https://github.com/shadowfax11/coded-dual-pixels/)|
 |2024|CVPR|[LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_LDP_Language-driven_Dual-Pixel_Image_Defocus_Deblurring_Network_CVPR_2024_paper.html)|Deblur||
+|2024|3DV|[Continuous Cost Aggregation for Dual-Pixel Disparity Extraction](https://arxiv.org/abs/2306.07921)|Depth / Disparity|[Code](https://github.com/SagiMonin/CCA-public)|
+|2024|ECCV|[Resolving Scale Ambiguity in Multi-view 3D Reconstruction using Dual-Pixel Sensors](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06658.pdf)|Depth|[Code](https://github.com/kohei-ashida/dp-sfm)|
 |2025|WACV|[Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Kurita_Revisiting_Disparity_from_Dual-Pixel_Images_Physics-Informed_Lightweight_Depth_Estimation_WACV_2025_paper.html)|Depth / Disparity|[Code & Dataset](https://github.com/sony/dual-pixel-disparity)|
 
 
