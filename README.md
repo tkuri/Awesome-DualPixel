@@ -35,7 +35,9 @@
 |2023|CVPR|[Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.html)|Depth / Disparity|[Code](https://github.com/KAIST-VCLAB/dual-pixel-disparity)|
 |2023|ICCP|[Learning to Synthesize Photorealistic Dual-pixel Images from RGBD frames](https://ai.sony/publications/Learning-to-Synthesize-Photorealistic-Dual-pixel-Images-from-RGBD-frames/)|Simulator|[Code & Dataset](https://github.com/feiran-l/Neural-Dual-Pixel-Simulator)|
 |2023|ICCV|[Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus](https://openaccess.thecvf.com/content/ICCV2023/html/Choi_Exploring_Positional_Characteristics_of_Dual-Pixel_Data_for_Camera_Autofocus_ICCV_2023_paper.html)|Autofocus||
-|2025|WACV|[Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Kurita_Revisiting_Disparity_from_Dual-Pixel_Images_Physics-Informed_Lightweight_Depth_Estimation_WACV_2025_paper.html)|Disparity|[Code & Dataset](https://github.com/sony/dual-pixel-disparity)|
+|2024|CVPR|[CADS: Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging](https://shadowfax11.github.io/cads/)|Depth / Deblur|[Code](https://github.com/shadowfax11/coded-dual-pixels/)|
+|2024|CVPR|[LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_LDP_Language-driven_Dual-Pixel_Image_Defocus_Deblurring_Network_CVPR_2024_paper.html)|Deblur||
+|2025|WACV|[Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Kurita_Revisiting_Disparity_from_Dual-Pixel_Images_Physics-Informed_Lightweight_Depth_Estimation_WACV_2025_paper.html)|Depth / Disparity|[Code & Dataset](https://github.com/sony/dual-pixel-disparity)|
 
 
 ## Dataset
